@@ -2,6 +2,19 @@
 
 This project focuses on analyzing the operations of a healthcare facility using a Power BI dashboard. The goal is to help hospital administrators and decision-makers understand important information about patient flow, resource usage, and the overall performance of the hospital. The dashboard shows data in different areas like patient demographics, bed usage, emergency room times, treatment costs, and patient feedback. This analysis helps improve patient care, make operations more efficient, and manage resources better.
 
+## Objective
+The main goals of this project are:
+
+•	Data Visualization: Develop interactive visualizations aiding in understanding hospital metrics.
+•	Data Transformation: Perform comprehensive data transformations using Power Query Editor for consistency and accuracy.
+•	Data Modeling: Design an efficient data model establishing relationships between fact and dimension tables.
+•	Key Performance Indicators (KPIs): Develop KPIs for better insights.
+•	Interactive Visuals: Create a range of visuals like bar charts, line charts, maps, and tables.
+•	Custom Visuals: Utilize custom visuals for enhanced user experience.
+•	Drill-Down Capabilities: Implement drill-down and drill-through functionalities.
+•	Filtering and Slicing: Incorporate filters and slicers for easy data segmentation.
+•	Navigation: Use navigational elements for seamless report browsing.
+
 ## Main Points
 
 Total Patients: 2506 – This shows the total number of patients who visited the hospital.
@@ -24,7 +37,7 @@ Average Length of Stay (LOS): 1.70 days – The average number of days patients 
 
 ## Project Overview
 
-The Healthcare Analysis project covers several important areas that affect both patient care and hospital operations. Here’s a breakdown of what the dashboard shows:
+The Healthcare Analysis project covers several important areas affecting patient care and hospital operations. Here’s a breakdown of what the dashboard shows:
 
 1. Patient Flow
 This section tracks the number of patients admitted and discharged each week. It helps hospital managers understand trends in admissions and discharges, which can be used to plan for bed availability and staffing. For example, around 1.7K patients were admitted and 0.8K were discharged every week.
